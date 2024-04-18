@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhi984726
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on ML related projects 
+- 🌱 I’m currently learning about Machine Learning and Blockchain Technology
+- 💞️ I’m looking to collaborate on ML and Blockchain related projects 
 - 📫 How to reach me mail:raiabhinav2698@gmail.com
 
 <!---
