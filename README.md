@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi2698
+- 👋 Hi, I’m @Abhinav Rai
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning about Machine Learning and Blockchain Technology
 - 💞️ I’m looking to collaborate on ML and Blockchain related projects 
